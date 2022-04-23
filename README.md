@@ -1,4 +1,4 @@
-# Moive-Search-Engine
+# Moive Search Engine
 <b> Movie Search Engine Simulation</b>
 <ul>
   <li>Implemented using Binary Search Tree</li>
